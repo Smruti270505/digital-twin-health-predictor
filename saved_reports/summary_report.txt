@@ -1,0 +1,22 @@
+Project: Digital Twin Project
+Author: Your Name
+Date: 2025-11-08T12:07:05
+
+Dataset: C:\predictiveproject\dataset\human_vital_signs_dataset_2024.csv
+Target: Risk Category
+Samples: 200020, Features: 14
+
+Best model: Baseline
+F1 (weighted): 1.0000
+Accuracy: 1.0000
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     21023
+           1       1.00      1.00      1.00     18981
+
+    accuracy                           1.00     40004
+   macro avg       1.00      1.00      1.00     40004
+weighted avg       1.00      1.00      1.00     40004
+
